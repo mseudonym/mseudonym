@@ -3,8 +3,7 @@
 </div>
 
 ### About me
-- 🎨 I’m currently learning design, and you can look at my projects on [Behance](https://www.behance.net/slashslashovski) or [Dprofile](https://dprofile.ru/mikhailichenko) 
-- 🌱 I’m also interested in learning frontend
+- 🌱 I’m currently learning design and frontend
 - 📫 Live in Yekaterinburg
 - 🏐 Like playing voleyball
 
