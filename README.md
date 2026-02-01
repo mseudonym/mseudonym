@@ -2,10 +2,6 @@
     <h1>Hi there, I'm  Alexander <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"></h1>
 </div>
 
-### About me
-- 📫 Live in Saint Petersburg
-- 🏐 Like playing voleyball
-
 ### Languages and tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
